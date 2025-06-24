@@ -1,1 +1,6 @@
-# recommend_site2
+# recommend_site
+
+fastapi
+htmx
+
+tailwindcss
